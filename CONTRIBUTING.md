@@ -6,7 +6,7 @@ Before you start contributing, please take a moment to read our guidelines.
 
 ## Code of Conduct
 
-This project and everyone participating in it are governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [project-maintainer@example.com](mailto:project-maintainer@example.com).
+This project and everyone participating in it are governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [project-maintainer@example.com](mailto:contact.sunnyallana@gmail.com).
 
 ## How Can I Contribute?
 
