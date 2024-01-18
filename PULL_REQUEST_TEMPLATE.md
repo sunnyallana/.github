@@ -2,8 +2,6 @@ Thank you for sending the pull request! We appreciate the time and effort you've
 
 Please help us understand your motivation by explaining why you decided to make this change.
 
-You can learn more about contributing to Appwrite here: https://github.com/sunnyallana/.github/CONTRIBUTING.md
-
 Happy contributing!
 
 
@@ -27,6 +25,6 @@ This PR is related to the following pull requests and issues:
 
 (Add more related PRs and issues as needed, and provide the respective PR or issue numbers.)
 
-### Have you read the [Contributing Guidelines on issues](https://github.com/sunnyallana/.github/CONTRIBUTING.md)?
+### Have you read the [Contributing Guidelines on issues](CONTRIBUTING.md)?
 
 Yes.
