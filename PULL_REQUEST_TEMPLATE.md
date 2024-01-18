@@ -2,7 +2,7 @@ Thank you for sending the pull request! We appreciate the time and effort you've
 
 Please help us understand your motivation by explaining why you decided to make this change.
 
-You can learn more about contributing to Appwrite here: https://github.com/appwrite/appwrite/blob/master/CONTRIBUTING.md
+You can learn more about contributing to Appwrite here: https://github.com/sunnyallana/.github/CONTRIBUTING.md
 
 Happy contributing!
 
