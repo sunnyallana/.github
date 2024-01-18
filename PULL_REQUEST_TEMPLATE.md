@@ -1,26 +1,32 @@
-<!--
-Thank you for sending the PR! We appreciate you spending the time to work on these changes.
+Thank you for sending the pull request! We appreciate the time and effort you've dedicated to making these changes.
 
-Help us understand your motivation by explaining why you decided to make this change.
+Please help us understand your motivation by explaining why you decided to make this change.
 
-You can learn more about contributing to appwrite here: https://github.com/appwrite/appwrite/blob/master/CONTRIBUTING.md
+You can learn more about contributing to Appwrite here: https://github.com/appwrite/appwrite/blob/master/CONTRIBUTING.md
 
 Happy contributing!
 
--->
 
 ## What does this PR do?
 
-(Provide a description of what this PR does.)
+This pull request aims to (provide a detailed description of what this PR accomplishes).
 
 ## Test Plan
 
-(Write your test plan here. If you changed any code, please provide us with clear instructions on how you verified your changes work.)
+To ensure the reliability and functionality of these changes, I've conducted the following tests:
+
+- [ ] (Specify the first test you performed and provide details on how you executed it.)
+- [ ] (Specify additional tests as needed, providing clear instructions on verification.)
 
 ## Related PRs and Issues
 
-(If this PR is related to any other PR or resolves any issue or related to any issue link all related PR and issues here.)
+This PR is related to the following pull requests and issues:
 
-### Have you read the [Contributing Guidelines on issues](https://github.com/appwrite/appwrite/blob/master/CONTRIBUTING.md)?
+- Related PR: #<PR_NUMBER>
+- Resolves Issue: #<ISSUE_NUMBER>
 
-(Write your answer here.)
+(Add more related PRs and issues as needed, and provide the respective PR or issue numbers.)
+
+### Have you read the [Contributing Guidelines on issues](https://github.com/sunnyallana/.github/CONTRIBUTING.md)?
+
+Yes.
